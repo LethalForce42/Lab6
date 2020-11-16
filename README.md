@@ -15,4 +15,4 @@ will display the total amount of points remaining for each assignment section an
 display the students current grade in the class. All input and output is done
 through the System.out output.
 
-***You need to run the Lab6.java file which is located in the src folder. No other files are needed.***
+**You need to run the Lab6.java file which is located in the src folder. No other files are needed.**
